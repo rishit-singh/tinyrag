@@ -1,0 +1,2 @@
+# tinyrag
+RAG using tinytune.
